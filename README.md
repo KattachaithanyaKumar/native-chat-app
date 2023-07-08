@@ -10,10 +10,10 @@ This is a simple chat application built using React Native, Gifted Chat library,
 - Customizable UI: The app's UI is highly customizable and can be tailored to match your application's design.
 
 ## Screenshots
-
-![WhatsApp Image 2023-06-28 at 10 57 57 AM](https://github.com/KattachaithanyaKumar/native-chat-app/assets/80614118/f9461899-6dbd-4105-b61e-0ce12b26a36a)
-
-![WhatsApp Image 2023-06-28 at 10 57 57 AM (1)](https://github.com/KattachaithanyaKumar/native-chat-app/assets/80614118/5837c549-d3d7-4c9a-b6a9-e4526d570f91)
+<div>
+   <img src="https://github.com/KattachaithanyaKumar/native-chat-app/assets/80614118/f9461899-6dbd-4105-b61e-0ce12b26a36a" width="400"/>   
+   <img src="https://github.com/KattachaithanyaKumar/native-chat-app/assets/80614118/5837c549-d3d7-4c9a-b6a9-e4526d570f91" width="400"/>
+</div>
 
 ## Installation
 
